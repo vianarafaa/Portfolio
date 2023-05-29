@@ -147,7 +147,6 @@ body {
     }
 
     .apresentacao__imagem {
-        width: 200px;
-        height: 220px;
+        width: 50%
     }
 }
